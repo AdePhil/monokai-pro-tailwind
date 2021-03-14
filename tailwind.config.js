@@ -7,7 +7,10 @@ module.exports = {
           },
           colors: {
               pale: '#fdf9f3',
-              dark: '#2c292d'
+              dark: '#2c292d',
+              yellow: '#ffd866',
+              pink: '#ff6188',
+              darkGray: '#bcbbbb'
           },
         extend: {},
     },
