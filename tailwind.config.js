@@ -10,7 +10,8 @@ module.exports = {
               dark: '#2c292d',
               yellow: '#ffd866',
               pink: '#ff6188',
-              darkGray: '#bcbbbb'
+              darkGray: '#bcbbbb',
+              darkerGray: '#dcdbdb'
           },
         extend: {},
     },
